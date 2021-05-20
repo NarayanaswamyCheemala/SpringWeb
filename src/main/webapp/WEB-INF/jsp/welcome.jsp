@@ -7,7 +7,7 @@
 
 <body>	
 	Message: ${message}	
-	<a href="register3">Register</a>
+	<a href="register">Register</a>
 </body>
 
 </html>

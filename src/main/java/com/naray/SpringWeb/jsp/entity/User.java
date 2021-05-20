@@ -3,10 +3,13 @@
  */
 package com.naray.SpringWeb.jsp.entity;
 
+import org.springframework.boot.orm.jpa.EntityScan;
+
 /**
  * @author naray
  *
  */
+@EntityScan
 public class User {
 	
 	private String username;
